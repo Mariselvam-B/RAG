@@ -22,9 +22,9 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 def connect_to_db():
     conn = psycopg2.connect(
-        dbname="quain",
-        user="postgres",
-        password="admin",
+        dbname="your_db",
+        user="your_user",
+        password="your_pass",
         host="localhost",
         port="5432"
     )
