@@ -8,4 +8,4 @@ sentence-transformers
 tiktoken
 
 
-# if warning shows run this line "pip install -U langchain-huggingface" starting at 9.19 AM ending at 9.26 AM
+# if warning shows run this line "pip install -U langchain-huggingface"
